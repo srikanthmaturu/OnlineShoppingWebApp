@@ -12,4 +12,5 @@ public class AuthorizationStatus {
 		return (String)request.getSession().getAttribute("user_type");
 	}	
 
+	
 }
